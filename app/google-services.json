@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "678027513259",
+    "firebase_url": "https://family-alarm-app-default-rtdb.firebaseio.com",
+    "project_id": "family-alarm-app",
+    "storage_bucket": "family-alarm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678027513259:android:6a9b73418abd4948a996ee",
+        "android_client_info": {
+          "package_name": "com.devss.backgroundnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678027513259-i0vqu1bruttk5n1or4ra0rqk0iq18u7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4n8hQxP2OnwLW7_KZRZj94mrK6-nSZA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678027513259-i0vqu1bruttk5n1or4ra0rqk0iq18u7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678027513259:android:e449a6f5dc3925b4a996ee",
+        "android_client_info": {
+          "package_name": "com.devss.familyalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678027513259-v2hmp1bu4tmm98f6gsvtclfjqak2r3dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devss.familyalarm",
+            "certificate_hash": "44f0c72b0953df2295cd7f377d5354ff3be05df0"
+          }
+        },
+        {
+          "client_id": "678027513259-i0vqu1bruttk5n1or4ra0rqk0iq18u7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4n8hQxP2OnwLW7_KZRZj94mrK6-nSZA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678027513259-i0vqu1bruttk5n1or4ra0rqk0iq18u7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
